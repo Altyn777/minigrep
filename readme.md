@@ -3,6 +3,7 @@
 ```bash
 cargo run -- frog poem.txt
 IGNORE_CASE=1 cargo run -- to poem.txt
+cargo run -- to poem.txt true
 ```
 
 ```PowerShell
